@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "lib": [
+      "es2017"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
